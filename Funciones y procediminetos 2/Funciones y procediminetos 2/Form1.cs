@@ -30,6 +30,7 @@ namespace Funciones_y_procediminetos_2
             //obtener ultimo caracter
             UltimoTextBox.Text = cadena.Substring(cadena.Length - 1, 1);
 
+            //Rango
             RangoTextBox.Text = cadena.Substring(5,15);
 
             //Convertir a mayusculas
