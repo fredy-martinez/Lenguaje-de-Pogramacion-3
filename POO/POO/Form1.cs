@@ -19,7 +19,7 @@ namespace POO
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Usuario usuario = new Usuario("FMART", "famartineg@unah.hn");
+            //Usuario usuario = new Usuario("FMART", "famartineg@unah.hn");
 
             
         }
